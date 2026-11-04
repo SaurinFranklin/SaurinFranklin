@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Franklin Saurin Tuanama</h1>
+<h3 align="center">💻 Estudiante de Ingeniería de Software con IA | Desarrollador Full-Stack</h3>
 
-<!--
-**SaurinFranklin/SaurinFranklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Apasionado por transformar ideas en soluciones tecnológicas escalables, combinando el desarrollo web moderno con modelos de Inteligencia Artificial y Machine Learning.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🔭 Actualmente me encuentro desarrollando plataformas de gestión integradas con **Machine Learning y Deep Learning** y optimizando arquitecturas de backend.
+- 🛠️ Mis áreas de enfoque incluyen el desarrollo backend robusto (Python, Java con Spring Boot), interfaces frontend interactivas (React) y la gestión eficiente de bases de datos.
+- ⚡ Me encanta automatizar procesos y construir herramientas útiles que resuelvan problemas reales de negocio.
+
+---
+
+### 🧰 Tecnologías y Herramientas
+
+<div align="center">
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | `Python`, `JavaScript`, `Java`, `PHP` |
+| **Frontend** | `React`, `HTML5`, `CSS3`, `Tailwind CSS`, `Node.js` |
+| **Backend & APIs** | `FastAPI`, `Spring Boot`, `Express.js`, `Starlette` |
+| **Bases de Datos** | `PostgreSQL`, `MySQL`, `MongoDB`, `Supabase` |
+| **DevOps & Entorno** | `Git`, `GitHub`, `Docker`, `Linux (Fedora/Ubuntu WSL)`, `Windows 11` |
+
+</div>
+
+---
+
+### 📌 Mis Proyectos Destacados
+
+* **[sistema-servicios-ia](https://github.com/SaurinFranklin/sistema-servicios-ia)**: Plataforma interactiva de gestión de servicios integrada con modelos de Machine Learning y Deep Learning.
+* **[sitio_ti](https://github.com/SaurinFranklin/sitio_ti)**: Sitio web corporativo/tecnológico optimizado y desplegado en producción en Vercel. *(¡Puedes ver la demo en vivo desde el repo!)*
+* **[prestamos-saurin](https://github.com/SaurinFranklin/prestamos-saurin)**: Aplicación robusta en Python enfocada en el dominio financiero y la lógica de negocio de préstamos.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaurinFranklin&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurinFranklin&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+---
+
+### 📬 Conectemos
+- 💼 ¿Quieres hablar de código, proyectos o IA? ¡Encuéntrame en [GitHub](https://github.com/SaurinFranklin)!
