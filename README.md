@@ -49,15 +49,6 @@ Aplicación en Python enfocada en la lógica de negocio de préstamos: cálculo 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SaurinFranklin&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurinFranklin&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   💬 ¿Tienes un proyecto o quieres colaborar? Escríbeme por LinkedIn o correo.
 </p>
